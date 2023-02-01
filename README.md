@@ -4,19 +4,17 @@ This is a simple React application created with npx create-react-app.
 Installation
 To install and run the app, follow these steps:
 
-Clone the repository
-bash
-Copy code
-git clone https://github.com/[YOUR_GITHUB_USERNAME]/my-react-app.git
-Install the dependencies
-bash
-Copy code
-cd my-react-app
-npm install
-Start the development server
-sql
-Copy code
-npm start
+1. Clone the repository
+
+   git clone https://github.com/sid1552/React-Mini-Project.git
+
+2. Install the dependencies
+   cd my-react-app
+   npm install
+
+3. Start the development server
+   npm start
+
 The app will be available at http://localhost:3000.
 
 Technologies Used
