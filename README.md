@@ -12,9 +12,7 @@ You need to have Node.js and npm (Node Package Manager) installed on your machin
 
 ### Installing
 
-Clone the repository and install the dependencies by running the following command in the project directory:
-
-npm install
+Clone the repository 
 
 
 ### Running the App
