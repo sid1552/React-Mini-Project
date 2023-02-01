@@ -1,0 +1,70 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  width: 100%;
+  height: 91px;
+  left: 0px;
+  top: 0px;
+  background: #21222a;
+}
+
+.facts_logo {
+  color: #61dafb;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  color: #333;
+  margin-left: 25%;
+  margin-right: 5%;
+}
+
+.nav-items {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  color: #deebf8;
+}
+
+.nav-items > li {
+  padding: 10px;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #282d35;
+  color: white;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.maincon {
+  position: relative;
+  margin-top: 7%;
+  margin-left: 5%;
+}
+
+.lists > li {
+  line-height: 30px;
+}
+
+footer {
+  text-align: center;
+  background: #21222a;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+}
